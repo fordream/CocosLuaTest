@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/external/Box2D/Dynamics/Contacts/b2Contact.cpp \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Contacts/b2Contact.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Common/b2Math.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Common/b2Settings.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Collision/b2Collision.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Collision/Shapes/b2Shape.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Common/b2BlockAllocator.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2Fixture.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2Body.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Contacts/b2CircleContact.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Contacts/b2PolygonContact.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Contacts/b2EdgeAndCircleContact.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Contacts/b2ChainAndCircleContact.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Contacts/b2ChainAndPolygonContact.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Contacts/b2ContactSolver.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2TimeStep.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Collision/b2TimeOfImpact.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Collision/b2Distance.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2World.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Common/b2StackAllocator.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2ContactManager.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Collision/b2BroadPhase.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Collision/b2DynamicTree.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Common/b2GrowableStack.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2WorldCallbacks.h

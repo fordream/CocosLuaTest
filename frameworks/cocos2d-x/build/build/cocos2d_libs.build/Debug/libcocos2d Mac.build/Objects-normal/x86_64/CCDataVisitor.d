@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/cocos/base/CCDataVisitor.cpp \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/base/CCRef.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformMacros.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/base/ccConfig.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformConfig.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformDefine.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/platform/mac/CCPlatformDefine-mac.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/deprecated/CCBool.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/base/CCDataVisitor.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/deprecated/CCInteger.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/base/CCConsole.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/base/ccMacros.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/platform/CCStdC.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/platform/mac/CCStdC-mac.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/base/ccRandom.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/platform/CCCommon.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/deprecated/CCFloat.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/deprecated/CCDouble.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/deprecated/CCString.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/deprecated/CCArray.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/base/ccCArray.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/deprecated/CCDictionary.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/base/uthash.h \
+  /Users/mac/GitHub/CocosLuaTest/frameworks/cocos2d-x/build/../cocos/deprecated/CCSet.h
